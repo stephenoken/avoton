@@ -29,4 +29,5 @@ extra-deps:
 - transformers-compat-0.5.1.4
 - unordered-containers-0.2.7.1
 - haskeline-0.7.2.3
-resolver: ghc-7.10.2
+- ghc-mod-5.6.0.0
+resolver: ghc-8.0.1
